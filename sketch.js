@@ -8,7 +8,7 @@ function setup() {
 
 function draw() {
 	noStroke();
-	fill(140,255,200);
-	rect(70,0,700,400);
+	fill(54,54,70);
+	rect(70,0,700,300);
 	image(headshot,0,100);
 }
